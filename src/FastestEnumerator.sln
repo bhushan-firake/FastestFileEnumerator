@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastestEnumerator", "FastestEnumerator\FastestEnumerator.csproj", "{960F4312-4EC9-423F-93AB-38EE9CBC2EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{3F425F58-A85F-44EE-BA59-D9772A3BDC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960F4312-4EC9-423F-93AB-38EE9CBC2EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960F4312-4EC9-423F-93AB-38EE9CBC2EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960F4312-4EC9-423F-93AB-38EE9CBC2EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960F4312-4EC9-423F-93AB-38EE9CBC2EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F425F58-A85F-44EE-BA59-D9772A3BDC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F425F58-A85F-44EE-BA59-D9772A3BDC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F425F58-A85F-44EE-BA59-D9772A3BDC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F425F58-A85F-44EE-BA59-D9772A3BDC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

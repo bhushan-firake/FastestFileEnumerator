@@ -1,0 +1,5 @@
+F:\FastestEnumerator\FastestEnumerator\obj\Debug\FastestEnumerator.csprojResolveAssemblyReference.cache
+F:\FastestEnumerator\FastestEnumerator\bin\Debug\FastestEnumerator.dll
+F:\FastestEnumerator\FastestEnumerator\bin\Debug\FastestEnumerator.pdb
+F:\FastestEnumerator\FastestEnumerator\obj\Debug\FastestEnumerator.dll
+F:\FastestEnumerator\FastestEnumerator\obj\Debug\FastestEnumerator.pdb

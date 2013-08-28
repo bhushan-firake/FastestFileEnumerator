@@ -1,0 +1,7 @@
+F:\FastestEnumerator\Tester\bin\Debug\Tester.exe.config
+F:\FastestEnumerator\Tester\bin\Debug\Tester.exe
+F:\FastestEnumerator\Tester\bin\Debug\Tester.pdb
+F:\FastestEnumerator\Tester\bin\Debug\FastestEnumerator.dll
+F:\FastestEnumerator\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+F:\FastestEnumerator\Tester\obj\Debug\Tester.exe
+F:\FastestEnumerator\Tester\obj\Debug\Tester.pdb

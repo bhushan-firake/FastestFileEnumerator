@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FastestFileEnumerator</id>
+    <version>1.0.1</version>
+    <title>FastestFileEnumerator</title>
+    <authors>Bhushan Firake</authors>
+    <owners>Bhushan Firake</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>When a folder contains a number of files, it gets slower to enumerate them. This package helps to enumerate them faster than DirectoryInfo and FileInfo classes in C#.Net</description>
+    <summary>This package helps to enumerate files in a folder with amazing speed. It enumerates them faster than the DirectoryInfo and FileInfo classes in C#.Net</summary>
+    <releaseNotes />
+    <copyright>Bhushan Firake</copyright>
+    <language>en-IN</language>
+    <references>
+      <reference file="FastestEnumerator.dll" />
+    </references>
+  </metadata>
+</package>
